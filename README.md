@@ -1,2 +1,2 @@
-# Prepcourse-HenryDicimber
-Repositorio de ensayo del Prepcourse henry
+Este proyecto es una prueba
+de crear un proyecto desde github y como clonarlo en mi laptop
